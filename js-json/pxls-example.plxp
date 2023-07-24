@@ -1,0 +1,40 @@
+{
+  "help": {
+    "context": "This object serves no purpose but to teach the user how to edit these files for fun or specific editing, and editing anything in this object does nothing, and i would reccomend using the normal editor and compiler.",
+    "syntax": "the .pxlp files use the same syntax as .json files, and you can edit them as such",
+    "the userdata object": "userdata stores the name, description, date of creation, and version of the work, self explanitory enough",
+    "the pixels array": "the pixels array is a list of every pixel and its data, its x and y values(from the top right, color(in rgb and saturation/value), and index(i)",
+    "the meta object": "the meta object contains info that helps the server run and identify things. It helps the compiler and UI work. DO NOT EDIT THIS OBJECT, IT MAY PERMANENTLY CORRUPT THE FILE FOR GOOD."
+  },
+  "userdata": {
+    "author": "Default Author",
+    "desc": "Default Description",
+    "date": "mm/dd/yyyy",
+    "version": "DEFAULT 1.0.0 FINAL"
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "i": 0,
+      "sat": 100,
+      "val": 100
+    }
+  ],
+  "meta": {
+    "sizex": 64,
+    "sizey": 64,
+    "pixelsFilled": 1,
+    "colors": [
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      }
+    ],
+    "serverid": 0
+  }
+}
