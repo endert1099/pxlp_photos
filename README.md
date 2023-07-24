@@ -1,10 +1,10 @@
-# JSON.tmLanguage
-
-## History
-TextMate grammar for JSON, derived from https://github.com/Benvie/JavaScriptNext.tmLanguage. However, this repository no longer exists, it appears to have been removed sometime around July 2017. 
-
-## Legal
-Before we can accept your pull request you will need to sign a **Contribution License Agreement**. All you need to do is to submit a pull request, then the PR will get appropriately labelled (e.g. `cla-required`, `cla-norequired`, `cla-signed`, `cla-already-signed`). If you already signed the agreement we will continue with reviewing the PR, otherwise system will tell you how you can sign the CLA. Once you sign the CLA all future PR's will be labeled as `cla-signed`.
-
-## License 
-[MIT](LICENSE)
+# PXLP Photos
+## Basically pixel art but editable by programmers
+---
+### A few things first of all
+1. I stole the .tmlanguage code from the [Microsoft JSON VSCode Extention](https://github.com/microsoft/vscode-JSON.tmLanguage/tree/main). Please don't kill me.
+2. It is basically just .json but with 4 main elements(explanation in the file)
+3. There is also a VSCode extension for .pxlp to download for better use.
+---
+### Editing
+#### There is an editing guide in the example.pxlp file for those who need it, but there is a built-in editor so idk why you would ever use it.
