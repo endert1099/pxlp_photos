@@ -356,7 +356,7 @@
 				<string>meta</string>
 				<string>help</string>
 			<key>name</key>
-			<string>constant.language.json</string>
+			<string>plxpdefs.language.json</string>
 		</dict>
 		<key>value</key>
 		<dict>
