@@ -347,6 +347,17 @@
 				</dict>
 			</array>
 		</dict>
+		<key>plxp-defs</key>
+		<dict>
+			<key>match</key>
+			<array>
+				<string>pixels</string>
+				<string>userdata</string>
+				<string>meta</string>
+				<string>help</string>
+			<key>name</key>
+			<string>constant.language.json</string>
+		</dict>
 		<key>value</key>
 		<dict>
 			<key>patterns</key>
@@ -374,6 +385,10 @@
 				<dict>
 					<key>include</key>
 					<string>#comments</string>
+				</dict>
+				<dict>
+					<key>include</key>
+					<string>#plxp-defs</string>
 				</dict>
 			</array>
 		</dict>
